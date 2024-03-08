@@ -1,0 +1,161 @@
+.wireframe-1-child {
+  position: absolute;
+  top: 20.75rem;
+  left: 0;
+  border-radius: 0 var(--br-81xl) var(--br-81xl) 0;
+  width: 45.438rem;
+  height: 46.75rem;
+  object-fit: cover;
+}
+.wireframe-1-inner,
+.wireframe-1-item {
+  position: absolute;
+  top: 0;
+  left: 45.438rem;
+  width: 49.75rem;
+}
+.wireframe-1-item {
+  border-radius: 0 0 0 400px;
+  background-color: #005593;
+  height: 52.438rem;
+  opacity: 0.4;
+}
+.wireframe-1-inner {
+  background-color: rgba(77, 101, 124, 0.28);
+  height: 7.563rem;
+}
+.resumo-do-logotipo-do-nibus- {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10rem;
+  height: 6.875rem;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 2.438rem;
+  left: 8rem;
+  background-color: #1e1e1e;
+  width: 0.125rem;
+  height: 2.375rem;
+}
+.safari {
+  margin: 0;
+}
+.safari-coach {
+  position: absolute;
+  top: 2.438rem;
+  left: 8.813rem;
+  font-size: 1rem;
+  font-weight: 800;
+  display: inline-block;
+  width: 3.5rem;
+}
+.facebook-1-icon,
+.instagram-1-icon,
+.twitter-sign-1-icon {
+  position: absolute;
+  top: 61.688rem;
+  left: 79.125rem;
+  width: 3.125rem;
+  height: 3.125rem;
+  object-fit: cover;
+}
+.facebook-1-icon,
+.twitter-sign-1-icon {
+  left: 84.625rem;
+}
+.facebook-1-icon {
+  left: 73.625rem;
+}
+.join-the-community {
+  position: absolute;
+  top: 62.5rem;
+  left: 57.75rem;
+  font-weight: 500;
+}
+.seamless-journeys-effortless-container {
+  position: absolute;
+  top: 10.938rem;
+  left: 1.625rem;
+  font-size: 1.5rem;
+  display: inline-block;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.64);
+  width: 46rem;
+}
+.road-1-icon,
+.user-1-icon {
+  position: absolute;
+  top: 2.188rem;
+  left: 76rem;
+  width: 3.125rem;
+  height: 3.125rem;
+  object-fit: cover;
+}
+.road-1-icon {
+  top: 11.813rem;
+  left: 63.125rem;
+}
+.book-bus {
+  position: absolute;
+  top: 12rem;
+  left: 66.688rem;
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: rgba(0, 0, 0, 0.78);
+}
+.about-us,
+.contact-us {
+  position: absolute;
+  top: 3.188rem;
+  left: 59.25rem;
+  font-weight: 500;
+}
+.about-us {
+  top: 3rem;
+  left: 80.688rem;
+}
+.wireframe-1-child1,
+.wireframe-1-child2 {
+  position: absolute;
+  top: 16.563rem;
+  left: 54.063rem;
+  border-radius: var(--br-41xl);
+  background-color: #b1d5e9;
+  width: 31.125rem;
+  height: 28.563rem;
+}
+.wireframe-1-child2 {
+  top: 39.125rem;
+  left: 65.25rem;
+  background-color: #d9d9d9;
+  width: 7.313rem;
+  height: 2.875rem;
+}
+.book-now {
+  position: absolute;
+  top: 40rem;
+  left: 66.25rem;
+  font-size: 0.938rem;
+  font-weight: 800;
+}
+.wireframe-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 95.188rem;
+  height: 67.5rem;
+  overflow: hidden;
+}
+.wireframe-1-parent {
+  width: 100%;
+  position: relative;
+  height: 67.5rem;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

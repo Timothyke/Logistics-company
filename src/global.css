@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,500;0,800;1,500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xl: 1.25rem;
+
+  /* Colors */
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-41xl: 60px;
+  --br-81xl: 100px;
+}
